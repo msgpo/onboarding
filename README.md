@@ -19,11 +19,12 @@ What do you want to work on?
     - ...by providing translation or interpretation for an event. (We should compensate for this!)
 - ...deploy hardware...
     - ...around my house!
-        - Home node walkthrough
+        - Check out our [home node walkthrough](https://sudoroom.org/wiki/Mesh/WalkThrough)
     - ...connecting my house to my friend's house!
-        - Extender node walkthrough
-        - Mounting
-        - Construction safety and ladder safety
+        - First, you'll need to complete the above home node walkthrough.
+        - Then, check out our [extender node walkthrough](https://sudoroom.org/wiki/Mesh/Flashing_extender_nodes)
+        - Learn about mounting your node on [GitHub](https://github.com/sudomesh/mounting) and [our wiki](https://sudoroom.org/wiki/Mesh/Mounting)
+        - Construction safety and ladder safety is covered loosely there, but we suggest consulting us or someone you trust to help you reach your roof safely.
 - ...understand "the mesh"...
     - in general
     - our mesh in particular (node whisperer program)
