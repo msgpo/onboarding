@@ -27,34 +27,35 @@ What do you want to work on?
         - Construction safety and ladder safety is covered loosely there, but we suggest consulting us or someone you trust to help you reach your roof safely.
 - ...understand "the mesh"...
     - in general
-    - our mesh in particular (node whisperer program)
+    - our mesh in particular
+        - See our [Node Whisperer program](https://github.com/sudomesh/node-whisperer-program)
         - babeld
         - tunneldigger
         - openWRT/Linux
         - sudoWRT
         - network topology
 - ...write code...
-    - ...to fix bugs
-    - ...to build firmware
-    - ...to improve our infrastructure and visibility, automate stuff, etc.
+    - ...to fix [bugs](https://github.com/sudomesh/bugs/issues)
+    - ...to build [firmware](https://github.com/sudomesh/sudowrt-firmware)
+    - ...to [improve our infrastructure](https://github.com/sudomesh/bugs/issues/34) and [visibility](https://github.com/sudomesh/monitor), automate stuff, etc.
     - ...to add tests (please!)
 - ...write words...
     - ...to translate stuff!
     - ...because I'm a reporter or something like that
     - ...to publicize our events, keep people up-to-date, and build our community
-        - Mailing list
-        - Twitter
-        - Share links to our Patreon!
+        - Help us reach out to folks on our [mailing list](https://sudoroom.org/lists/) about events
+        - Tweet about us on [Twitter](https://twitter.com/peoplesopennet)
+        - Share links to our [Patreon](https://www.patreon.com/peoplesopennet)!
     - ...to document code or procedures
     - ...to teach people about the Internet or the mesh
     - ...to apply for grants and raise money
 - ...draw pictures...
-    - ...for educational purposes (e.g. zines and infographics)
-    - ...for propaganda! I make sick fliers and stickers.
+    - ...for educational purposes (e.g. zines and infographics). For now, see propaganda, below.
+    - ...for [propaganda](https://github.com/sudomesh/propaganda)! I make sick fliers and stickers.
     - ...technical diagrams for technical documentation
 - ...film films...
     - ...that's awesome but I don't know what to tell you right now! Maybe someone else will edit this accordingly.
 - ...ask a question and/or get updates
-    - Mailing list
-    - Rocket.chat
-    - Twitter
+    - [Mailing list](https://sudoroom.org/lists/)
+    - [Rocket.chat](https://peoplesopen.net/chat)
+    - [Twitter](https://twitter.com/peoplesopennet)
