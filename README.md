@@ -9,8 +9,8 @@ What do you want to work on?
 ...peoplesopen.net! I want to...
 
 - ...donate!
-    - Patreon
-    - Bitcoin
+    - [Patreon](https://www.patreon.com/peoplesopennet)
+    - [Bitcoin](https://blockchain.info/address/12RxU4DpLpdWcmEBn7Tj325CCXBwt5i9Hc)
 - ...talk to people and organize events...
     - ...BYOI
     - ...BYOI Office Hours
