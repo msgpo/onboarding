@@ -1,6 +1,8 @@
 # Sudo Mesh Onboarding
 Currently written with an eye for peoplesopen.net. Folks working on disaster.radio, garden mesh, etc, feel free to flesh out info on your projects!
 
+See also the ["Guides" entry](https://github.com/sudomesh/propaganda/blob/master/handouts/guides.md) in [sudomesh/propaganda](https://github.com/sudomesh/propaganda).
+
 ## Onboarding
 Welcome to Sudo Mesh!
 
